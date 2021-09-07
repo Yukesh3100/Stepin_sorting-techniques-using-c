@@ -11,4 +11,4 @@ void Display(int array_ptr[], int array_size)
      printf("%d ",array_ptr[i]);
     printf("\n");
 }
-© 2021 GitHub, Inc.
+
