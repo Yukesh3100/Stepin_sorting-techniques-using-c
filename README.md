@@ -1,4 +1,4 @@
-# Miniproject
+## Miniproject
 
 Sorting techniques using C language
 
